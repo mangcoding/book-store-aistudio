@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Books - Warm Literary Modern",
+  "description": "An intimate, tactile bookstore and reading companion inspired by Warm Literary Modern Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
